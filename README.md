@@ -6,8 +6,11 @@
 ---
 #### numpy : to work 50 times faster with arrays and lists 
 ---
-### opencv :
+### opencv :to process and analyze images and videos in real time, for example, detecting yellow objects using a webcam.
 ---
-### pillow :
+### pillow :an image-processing library used to open, create, resize, crop, and save images in different formats.
 ---
+
+
+## Made By : MED EDDINARI 
 
